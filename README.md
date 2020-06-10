@@ -12,6 +12,12 @@ O Ecoleta foi um projeto desenvolvido durante o __Next Level Week #1__ (evento [
 <br/>
 ### Instruções:
 
+Antes de inicializar o projeto baixe todas as dependências, para isso acesse os diretórios *mobile*, *server* e *web* e digite no terminal/console:
+```
+npm install
+```
+<br/>
+
 __*1 - Back-end:*__
 
 no diretório "server" execute o comando abaixo para iniciar o servidor:
