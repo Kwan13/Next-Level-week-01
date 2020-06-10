@@ -1,5 +1,5 @@
 # Next Level Week #1 - Ecoleta
-<img src="https://s7.gifyu.com/images/capa-ecoleta.md.gif" width="1040">
+![enter image description here](https://s7.gifyu.com/images/ecoleta.md.gif)
 
 ## Sobre - Ecoleta
 O Ecoleta foi um projeto desenvolvido durante o __Next Level Week #1__ (evento [Rockeatseat](https://rocketseat.com.br) ) que tem como finalidade conectar empresas ou entidades que coletam resíduos orgânicos ou inorgânicos às pessoas que precisam descarta-los.
